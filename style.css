@@ -10,7 +10,7 @@
   font-size: 15px;
   text-align: center;
   color: white;
-  display: block;
+  display: inline-block;
 }
 
 .tabInclude {
