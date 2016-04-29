@@ -6,5 +6,6 @@
   border: none;
   background: linear-gradient(0deg, deepskyblue, deepskyblue);
   border-radius: 10px 10px 0px 0px;
-
+  font-family: "Trebuchet MS"
+  font-size: 25px
 }
