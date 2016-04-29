@@ -1,2 +1,3 @@
 # pancakeland
-README PLS
+dont redistribute or whatever
+
